@@ -1,0 +1,55 @@
+body{
+    background-color: #c4edf5;
+}
+
+h1 {
+    text-align: center;
+    color: #0008ff;
+    font-size: 36px;
+    font-weight: 100;
+}
+
+h2 {
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    border: 5px solid #000000;
+}
+
+div {
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+}
+
+button {
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;       
+    margin: 0 auto;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+#Head {
+    font-family: 'Arial', sans-serif;
+    color: #000366;
+    font-synthesis-weight: extra-bold;
+}
+
+#Heading-para {
+    font-synthesis-weight: extra-bold;
+    text-align: center;
+    font-size: 15px;
+}
