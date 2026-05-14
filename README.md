@@ -52,13 +52,9 @@ git clone https://github.com/your-username/shopping-site.git
 
 ## 📸 Screenshot
 
-Add your project screenshot here.
-
-Example:
-
-```markdown
-![Shopping Site Screenshot](screenshot.png)
-```
+<p align="center">
+  <img src="img1.png" width="800">
+</p>
 
 ---
 
